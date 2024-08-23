@@ -1,0 +1,5 @@
+.venv
+djangoApp/db.sqlite3
+djangoApp/djangoApp/__pycache__
+djangoApp/tweet/__pycache__
+djangoApp/tweet/migrations
